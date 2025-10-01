@@ -4,6 +4,8 @@ description: Notes for Lecture 1.
 file: /courses/15-084j-nonlinear-programming-spring-2004/f8e5bd09d99cc296e0f5af25bf607e49_lec1_unconstr_opt.pdf
 file_size: 181180
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

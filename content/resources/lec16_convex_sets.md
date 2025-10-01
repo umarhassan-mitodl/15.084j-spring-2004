@@ -4,6 +4,8 @@ description: Notes for Lecture 16.
 file: /courses/15-084j-nonlinear-programming-spring-2004/af8570326db1f00938bcbd3ee66f0433_lec16_convex_sets.pdf
 file_size: 226528
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Notes for Lecture 12.
 file: /courses/15-084j-nonlinear-programming-spring-2004/8d9c756a3d42b0c15256645a500aafa1_lec12_barrier_mt.pdf
 file_size: 92845
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

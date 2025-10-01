@@ -8,7 +8,7 @@ title: Video Lectures
 uid: 109ce454-837f-2609-ec68-dd9471770a59
 ---
 
-The three video lectures available below illustrate the content and teaching style of this course. These videos are also available from {{% resource_link "0bf259e8-5b40-4c6a-b68a-ef70ccc9db7a" "VideoLectures.net" %}}.
+The three video lectures available below illustrate the content and teaching style of this course. These videos are also available from [VideoLectures.net](http://videolectures.net/mit15084s04_nonlinear_programming/).
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -34,7 +34,7 @@ VIDEOS
 Newton's Method
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "67412f4a-4ad5-41a5-a1a6-8e5ab23253f4" "MP4 - 237MB" %}})
+([MP4 - 237MB](https://archive.org/download/MIT15.084JS04/mit-ocw-15.084j-freund-10feb2004-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +46,7 @@ Newton's Method
 Duality Theory I
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "cc6c9ac2-ccfa-42ed-a463-7b26784338d1" "MP4 - 231MB" %}})
+([MP4 - 231MB](https://archive.org/download/MIT15.084JS04/mit-ocw-15.084j-freund-13apr2004-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +58,7 @@ Duality Theory I
 Semidefinite Optimization I
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "89aa1767-4e29-4a8a-9cad-9c5560b40f96" "MP4 - 227MB" %}})
+([MP4 - 227MB](https://archive.org/download/MIT15.084JS04/mit-ocw-15.084j-freund-03may2004-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
