@@ -4,8 +4,6 @@ description: Midterm exam questions.
 file: /courses/15-084j-nonlinear-programming-spring-2004/a87568b467e20a6ca026ed944bce8eb9_midterm_1998.pdf
 file_size: 56847
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

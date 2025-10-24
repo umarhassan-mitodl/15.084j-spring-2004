@@ -4,8 +4,6 @@ description: Notes for Lecture 10.
 file: /courses/15-084j-nonlinear-programming-spring-2004/13b4c46d590cf3df94475e0ae1a815c3_lec10_penalty_mt.pdf
 file_size: 196038
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

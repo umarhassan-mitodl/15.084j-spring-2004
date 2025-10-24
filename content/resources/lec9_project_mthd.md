@@ -4,8 +4,6 @@ description: Notes for Lecture 9.
 file: /courses/15-084j-nonlinear-programming-spring-2004/ffab929b622a6b424a9f592002d99be4_lec9_project_mthd.pdf
 file_size: 126118
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

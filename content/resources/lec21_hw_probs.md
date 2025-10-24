@@ -4,8 +4,6 @@ description: Problem set.
 file: /courses/15-084j-nonlinear-programming-spring-2004/96b1f09c62eb0852116bf0b7a7a190ce_lec21_hw_probs.pdf
 file_size: 93686
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Notes for Lecture 3.
 file: /courses/15-084j-nonlinear-programming-spring-2004/83159d56de04a7e7dc94d0348fa4ccda_lec3_newton_mthd.pdf
 file_size: 160948
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

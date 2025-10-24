@@ -27,7 +27,6 @@
     "website": "15-084j-nonlinear-programming-spring-2004"
   },
   "course_title": "Nonlinear Programming",
-  "hide_download": true,
   "course_description": "This course introduces students to the fundamentals of nonlinear optimization theory and methods. Topics include unconstrained and constrained optimization, linear and quadratic programming, Lagrange and conic duality theory, interior-point algorithms and theory, Lagrangian relaxation, generalized programming, and semi-definite programming. Algorithmic methods used in the class include steepest descent, Newton's method, conditional gradient and subgradient optimization, interior-point methods and penalty and barrier methods.\n",
   "department_numbers": [
     "15",
@@ -39,7 +38,6 @@
     "content": "ee12c041-f184-226f-274d-e275023d767f",
     "website": "15-084j-nonlinear-programming-spring-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes"
